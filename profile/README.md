@@ -1,3 +1,5 @@
+<p align="center"><img src="banner.png" alt="PilotOpenTools" width="100%"></p>
+
 # Pilot Open Tools
 
 Открытые инструменты для разработчиков и пользователей Pilot-ICE Enterprise и Pilot-BIM: расширения, средства тестирования, интеграции и вспомогательные утилиты.
