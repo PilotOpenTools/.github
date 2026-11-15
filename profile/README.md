@@ -1,4 +1,4 @@
-<img src="logo.png" alt="Pilot Open Tools" width="96" align="right">
+<img src="https://raw.githubusercontent.com/PilotOpenTools/.github/main/profile/logo.png" alt="Pilot Open Tools" width="96" align="right">
 
 # Pilot Open Tools
 
