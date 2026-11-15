@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/PilotOpenTools/.github/main/profile/logo.png" alt="Pilot Open Tools" width="96" align="right">
-
 # Pilot Open Tools
 
 Открытые инструменты для разработчиков и пользователей Pilot-ICE Enterprise и Pilot-BIM: расширения, средства тестирования, интеграции и вспомогательные утилиты.
